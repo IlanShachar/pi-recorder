@@ -1,1 +1,2 @@
-# pi-recorder
+# Pi-Recorder
+# Pi-Recorder

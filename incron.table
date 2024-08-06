@@ -1,0 +1,4 @@
+/home/pi/AUDIO	IN_CLOSE_WRITE	/usr/bin/flac $@/$# -f0 --keep-foreign-metadata && rm $@/$#
+/media/Part_1	IN_CLOSE_WRITE	/usr/bin/flac $@/$# -f0 --keep-foreign-metadata && rm $@/$#
+/media/Part_2	IN_CLOSE_WRITE	/usr/bin/flac $@/$# -f0 --keep-foreign-metadata && rm $@/$#
+/media/Part_3	IN_CLOSE_WRITE	/usr/bin/flac $@/$# -f0 --keep-foreign-metadata && rm $@/$#
